@@ -1,0 +1,16 @@
+body {
+    font-family: "Georgia";
+}
+
+.btn-primary
+{
+    background-color: pink;
+    border-color:transparent;
+    color:black;
+}
+
+#menu .active
+{
+    background-color: pink !important;
+    color:black !important;
+}
